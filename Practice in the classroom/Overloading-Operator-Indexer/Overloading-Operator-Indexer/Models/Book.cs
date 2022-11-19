@@ -8,9 +8,10 @@ namespace Overloading_Operator_Indexer.Models
     {
         public string Name { get; set; }
         public string Author { get; set; }
-        public override string ToString()
-        {
-            return Name+"-"+Author;
-        }
+
+        //public override string ToString()
+        //{
+        //    return Name+"-"+Author;
+        //}
     }
 }
