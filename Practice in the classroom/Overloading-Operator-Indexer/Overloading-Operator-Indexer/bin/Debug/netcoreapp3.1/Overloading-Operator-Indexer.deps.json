@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Overloading-Operator-Indexer/1.0.0": {
+        "runtime": {
+          "Overloading-Operator-Indexer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Overloading-Operator-Indexer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
